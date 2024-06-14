@@ -1,0 +1,17 @@
+https://pokedex.org/assets/skim-monsters-1.txt
+https://pokedex.org/assets/descriptions-1.txt
+https://pokedex.org/assets/evolutions.txt
+https://pokedex.org/assets/types.txt
+https://pokedex.org/assets/monsters-supplemental-1.txt
+https://pokedex.org/assets/descriptions-2.txt
+https://pokedex.org/assets/monsters-supplemental-2.txt
+https://pokedex.org/assets/skim-monsters-2.txt
+https://pokedex.org/assets/descriptions-3.txt
+https://pokedex.org/assets/monsters-supplemental-3.txt
+https://pokedex.org/assets/skim-monsters-3.txt
+https://pokedex.org/assets/moves-1.txt
+https://pokedex.org/assets/moves-2.txt
+https://pokedex.org/assets/moves-3.txt
+https://pokedex.org/assets/monster-moves-1.txt
+https://pokedex.org/assets/monster-moves-2.txt
+https://pokedex.org/assets/monster-moves-3.txt
